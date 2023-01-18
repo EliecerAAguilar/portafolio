@@ -59,8 +59,7 @@ buck-out/
 *.jsbundle
 
 
-README.md
-LICENSE.md
+
 .env
 .vscode/
 git_data_fetcher.mjs
