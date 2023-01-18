@@ -1,0 +1,358 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOIoAXTc5FtBXI",
+      "title": "documentacion en el readme",
+      "url": "https://github.com/EliecerAAguilar/r1-Aguilar/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-12-17T13:42:12Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 14,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "r1-Aguilar",
+        "url": "https://github.com/EliecerAAguilar/r1-Aguilar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIoAXTc5FsZxB",
+      "title": "Dev",
+      "url": "https://github.com/EliecerAAguilar/r1-Aguilar/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-12-17T06:18:44Z",
+      "number": 1,
+      "changedFiles": 10,
+      "additions": 210,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "r1-Aguilar",
+        "url": "https://github.com/EliecerAAguilar/r1-Aguilar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIQvpvM5DD2Tk",
+      "title": "Py pdf2",
+      "url": "https://github.com/EliecerAAguilar/getPDFinfo/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-11-16T21:12:24Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 14,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "getPDFinfo",
+        "url": "https://github.com/EliecerAAguilar/getPDFinfo",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIQvpvM5DDfUZ",
+      "title": "Py pdf2",
+      "url": "https://github.com/EliecerAAguilar/getPDFinfo/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-11-16T19:37:09Z",
+      "number": 2,
+      "changedFiles": 77,
+      "additions": 73586,
+      "deletions": 82859,
+      "baseRepository": {
+        "name": "getPDFinfo",
+        "url": "https://github.com/EliecerAAguilar/getPDFinfo",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIQvpvM5C4mue",
+      "title": "PyPDF2",
+      "url": "https://github.com/EliecerAAguilar/getPDFinfo/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-11-14T23:31:00Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 18,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "getPDFinfo",
+        "url": "https://github.com/EliecerAAguilar/getPDFinfo",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIKGG9s5AcG5F",
+      "title": "progress bar and label automatization, new branches",
+      "url": "https://github.com/EliecerAAguilar/web_scraping01/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-10-08T21:34:45Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 15,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "web_scraping01",
+        "url": "https://github.com/EliecerAAguilar/web_scraping01",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIENmC84_krlv",
+      "title": "Development",
+      "url": "https://github.com/EliecerAAguilar/python_fastapi_restful/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-09-26T04:33:36Z",
+      "number": 2,
+      "changedFiles": 5,
+      "additions": 86,
+      "deletions": 39,
+      "baseRepository": {
+        "name": "python_fastapi_restful",
+        "url": "https://github.com/EliecerAAguilar/python_fastapi_restful",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIENmC84_j5i8",
+      "title": "MIT license created",
+      "url": "https://github.com/EliecerAAguilar/python_fastapi_restful/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-09-25T19:40:39Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "python_fastapi_restful",
+        "url": "https://github.com/EliecerAAguilar/python_fastapi_restful",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIDSWQM4_eggm",
+      "title": "create MIT license",
+      "url": "https://github.com/EliecerAAguilar/datos_educativos_geoReferenciados/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-09-23T07:03:55Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "datos_educativos_geoReferenciados",
+        "url": "https://github.com/EliecerAAguilar/datos_educativos_geoReferenciados",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH0v12M4_eWGx",
+      "title": "new models",
+      "url": "https://github.com/EliecerAAguilar/flask_market_app/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-09-23T05:55:39Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 12,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "flask_market_app",
+        "url": "https://github.com/EliecerAAguilar/flask_market_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH0v12M49NLD_",
+      "title": "new project struture",
+      "url": "https://github.com/EliecerAAguilar/flask_market_app/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-08-15T20:37:12Z",
+      "number": 2,
+      "changedFiles": 6,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "flask_market_app",
+        "url": "https://github.com/EliecerAAguilar/flask_market_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOH0v12M49Mhlt",
+      "title": "Debugging",
+      "url": "https://github.com/EliecerAAguilar/flask_market_app/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-08-15T17:36:09Z",
+      "number": 1,
+      "changedFiles": 14,
+      "additions": 63,
+      "deletions": 180,
+      "baseRepository": {
+        "name": "flask_market_app",
+        "url": "https://github.com/EliecerAAguilar/flask_market_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHlrJCc46rICt",
+      "title": "Merge pull request #1 from eliecer507/main",
+      "url": "https://github.com/EliecerAAguilar/TP2_tarea03_p02/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-07-01T00:05:51Z",
+      "number": 2,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "TP2_tarea03_p02",
+        "url": "https://github.com/EliecerAAguilar/TP2_tarea03_p02",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHlrJCc46rHmc",
+      "title": "gitignore's file added",
+      "url": "https://github.com/EliecerAAguilar/TP2_tarea03_p02/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+        "url": "https://github.com/EliecerAAguilar",
+        "login": "EliecerAAguilar"
+      },
+      "createdAt": "2022-07-01T00:03:40Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "TP2_tarea03_p02",
+        "url": "https://github.com/EliecerAAguilar/TP2_tarea03_p02",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/81975603?u=a9068780c1b33aac1b90ed8ac32fc975a53e58ec&v=4",
+          "login": "EliecerAAguilar",
+          "url": "https://github.com/EliecerAAguilar"
+        }
+      }
+    }
+  ],
+  "merged": 14,
+  "open": 0,
+  "totalCount": 14
+}
